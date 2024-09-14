@@ -1,7 +1,7 @@
 # Directory structure
 
 - `AHM2024_Mongoose_project.ipynb`: The notebook of the study tailored for cpu/gpu machine
-- `AHM2024_Mongoose_project.ipynb`: The notebook of the study tailored for google colab
+- `AHM2024_Mongoose_project_colab.ipynb`: The notebook of the study tailored for google colab
 
 
 A link for the google colab version can be found here [AHM2024_Mongoose_project.ipynb](https://colab.research.google.com/drive/1rpUfzzpX7w2KONZ1XaYOV5O0l3wMNGbd?usp=sharing).

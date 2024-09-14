@@ -1,11 +1,8 @@
-# Introduction
-
-...
-
 # Directory structure
 
 - `AHM2024_Mongoose_project.ipynb`: The notebook of the study tailored for cpu/gpu machine
-- `AHM2024_Mongoose_project_colab.ipynb`: The notebook of the study tailored for google collab usage
+
+You can find a google colab version of the notebook [AHM2024_Mongoose_project.ipynb](https://colab.research.google.com/drive/1rpUfzzpX7w2KONZ1XaYOV5O0l3wMNGbd?usp=sharing).
 
 The notebooks are configured to store the datasets under `data`, and the saved results of the study under `saved_results`.
 
